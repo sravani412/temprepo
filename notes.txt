@@ -1,1 +1,5 @@
+This file contains git commands
 
+git add
+git show
+git log
